@@ -7,11 +7,11 @@
 #
 board: ["nice_nano_v2"]
 shield: ["tmk_left", "tmk_right"]
-include:
-  - board: nice_nano_v2
-    shield: tmk_left
-  - board: nice_nano_v2
-    shield: tmk_left
+# include:
+#   - board: nice_nano_v2
+#     shield: tmk_left
+#   - board: nice_nano_v2
+#     shield: tmk_left
 
 #   - board: bdn9_rev2
 #   - board: nice_nano_v2
